@@ -4,3 +4,4 @@ Modification n°3
 Modification n°4
 Modification n°5
 Modifications dans la branche "feat/connexion"
+Modification apportée au nouveau clone
