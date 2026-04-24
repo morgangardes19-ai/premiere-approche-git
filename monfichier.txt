@@ -3,3 +3,4 @@ Modification n°2
 Modification n°3
 Modification n°4
 Modification n°5
+Modifications dans la branche "feat/connexion"
